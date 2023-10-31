@@ -53,7 +53,7 @@ Talk about your python app. Describe your choices, what it is and what it does. 
 
 
 ### Features Left to Implement
-- Add any features that you did not implament and why. ex. ran out of time. 
+- Add any features that you did not implement and why. ex. ran out of time. 
 
 <a name="technologies"></a>
 
