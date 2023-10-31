@@ -2,7 +2,7 @@
 
 Here is where you should describe your project, what it does, why you made it and a brief explanation of how it works. 
   
-Add a link to the live preview of the site here [Here](https://code-institute-org.github.io/love-maths/)
+Add a link to the live version of the site here [Here](https://code-institute-org.github.io/love-maths/)
 
 ## Table of Contents
 
@@ -56,6 +56,7 @@ Talk about your python app. Describe your choices, what it is and what it does. 
 - Add any features that you did not implament and why. ex. ran out of time. 
 
 <a name="technologies"></a>
+
 ## Technologies Used
 
 - Here you will list and link to all the technologies you have used for your project. 
@@ -63,11 +64,13 @@ Talk about your python app. Describe your choices, what it is and what it does. 
 - **Github** - Github was used for storing my code and version control.    
 
 <a name="testing"></a>
+
 ## Testing
 
 Link to a seperate testing doc [Here](testing.md) or add all your manual testing in this section.
 
 <a name="deploy"></a>
+
 ## Deployment
 Describe the steps you took to deploy here. Describe it as though you are guiding someone to run your project locally.   
 
@@ -85,27 +88,22 @@ Describe the steps you took to deploy here. Describe it as though you are guidin
 6. Type gitclone if you selected HTTPS or SSH and paste the copied code. If you used GithubCLi just paste the code you copied
 7. Press Enter to create your clone
 
-### Deploy on Githubpages
-1. Navigate to your repo on Github. 
-2. Click Settings then Pages
-3. Under Branch click the dropdown and select your main branch. 
-4. Click Save. 
+### Deploy to Heroku
+1.List ALL the steps you took to deploy the project to Heroku
+
 
 <a name="credits"></a>
+
 ## Credits
 
 ### Code
-- Add links to and describe every piece of code that you used for this project that was not written by you. You do not have to credit W3 schools or MDN etc. 
+- Add links to and describe every piece of code that you used for this project that was not written by you. You do not have to credit W3 schools, MDN or if the code is from the official language/framework docs. 
 ### Content
 - Link to every piece of content such as text crediting the author. 
 
 
-#### Photo Credits
-- Link to every photo crediting the author. 
-
-
-
 <a name="acknowledgements"></a>
+
 ## Acknowledgements
 
 I received inspiration for this project from 
@@ -113,5 +111,6 @@ I received inspiration for this project from
 
 
 <a name="disclaimer"></a>
+
 ## Disclaimer
 This project is for educational purposes only and will not be used for commercial use. All media has been credited and any similarities to other companies/websites/applications are purely unintentional.  
